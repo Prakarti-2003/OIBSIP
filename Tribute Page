@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tribute to Narendra Modi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        #tribute-container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        #image-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .image {
+            max-width: 45%;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+        }
+
+        p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div id="tribute-container">
+        <h1>Tribute to Narendra Modi</h1>
+        <p>
+            Narendra Modi, the Prime Minister of India, is a visionary leader
+            and has played a crucial role in shaping the nation's future. His
+            dedication to public service and transformative policies have had
+            a significant impact on India's progress.
+        </p>
+        <p>
+            From his early days as a grassroots worker to his tenure as the
+            Chief Minister of Gujarat and later as the Prime Minister, Modi
+            has been an embodiment of perseverance and strong leadership.
+            His initiatives like "Make in India," "Swachh Bharat Abhiyan,"
+            and "Digital India" have brought about positive change across
+            various sectors.
+        </p>
+        <div id="image-container">
+            <img src="https://th.bing.com/th/id/R.33a67c083bbf93311a32ecbd935c821a?rik=gOk89dwRY3teoQ&riu=http%3a%2f%2fd.ibtimes.co.uk%2fen%2ffull%2f1463397%2findian-prime-minister-narendra-modi.jpg&ehk=Dhpfv1mj3ez3%2bBvjSuLf3DdUo2pmjQAXFYkxW6eCgtk%3d&risl=&pid=ImgRaw&r=0" width="100" height="100">
+           
+        </div>
+        <p>
+            Let us honor Narendra Modi for his unwavering commitment to the
+            development and progress of India. His visionary leadership and
+            dedication to the nation continue to inspire millions of people
+            around the world.
+        </p>
+        <p>
+            Thank you, Narendra Modi, for your immense contribution to the
+            growth and prosperity of India!
+        </p>
+        <p>- Your Admirers</p>
+    </div>
+</body>
+</html>
